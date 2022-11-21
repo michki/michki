@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michki
 - 👀 I’m interested in Identity & Access Management solutions, technology
-- 🌱 I’m currently learning passwordless autnentication offerings
+- 🌱 I’m currently learning passwordless authentication offerings
 - 📫 You can reach me at <a rel="me" href="https://infosec.exchange/@michki">Mastodon</a>
 
 <!---
